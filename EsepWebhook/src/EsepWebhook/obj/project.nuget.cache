@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9mIaqiGENM4b+jK4Z1m6E54TZ4frn+3xWlP8a1nblzTGvqpF3trYfBk/8zAz4MscZIQApkJb+L64EUUkKU6MXw==",
+  "dgSpecHash": "0Os0vfWldymeeL9ker+2GNkleJpAH1V9f7ucPICNIz4XehN0mqX8m7Q6gWdZ3BPxkMppLKOdBin0VYmty68Yow==",
   "success": true,
-  "projectFilePath": "/Users/prestongoren/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "projectFilePath": "/Users/prestongoren/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/prestongoren/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/prestongoren/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/prestongoren/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/prestongoren/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.24/microsoft.netcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
     "/Users/prestongoren/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.24/microsoft.aspnetcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
     "/Users/prestongoren/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.24/microsoft.netcore.app.crossgen2.osx-arm64.6.0.24.nupkg.sha512"

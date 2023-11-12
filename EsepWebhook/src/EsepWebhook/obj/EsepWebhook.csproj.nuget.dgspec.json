@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/prestongoren/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/Users/prestongoren/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/Users/prestongoren/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/Users/prestongoren/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/prestongoren/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/Users/prestongoren/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/Users/prestongoren/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/Users/prestongoren/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/Users/prestongoren/.nuget/packages/",
-        "outputPath": "/Users/prestongoren/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/Users/prestongoren/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/prestongoren/.nuget/NuGet/NuGet.Config"
@@ -45,6 +45,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
