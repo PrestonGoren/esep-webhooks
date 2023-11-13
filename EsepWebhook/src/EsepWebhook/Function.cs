@@ -31,6 +31,6 @@ public class Function
         var response = client.Send(webRequest);
         using var reader = new StreamReader(response.Content.ReadAsStream());
             
-        return payload;
+        return reader.ReadToEnd();
     }
 }
